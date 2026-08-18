@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31198988/README.md)
 
 <p align="center">
   <img src="DataEngineerBannerAnimated.svg" alt="Omar Salem - Data Engineer & Analyst" width="700"/>
