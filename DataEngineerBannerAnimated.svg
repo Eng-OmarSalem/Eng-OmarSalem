@@ -1,0 +1,60 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171008"/>
+      <stop offset="100%" stop-color="#2a1608"/>
+    </linearGradient>
+    <radialGradient id="iconGlow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#FF7A00" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FF7A00" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="boltGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD200"/>
+      <stop offset="100%" stop-color="#FF6A00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- card background -->
+  <rect x="1.5" y="1.5" width="897" height="227" rx="16" fill="url(#bg)" stroke="#4a2a10" stroke-width="1.5"/>
+
+  <!-- pulsing glow behind the badge -->
+  <circle cx="145" cy="115" r="78" fill="url(#iconGlow)">
+    <animate attributeName="r" values="70;86;70" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- badge / shield shape with a subtle breathing outline -->
+  <path d="M145 50 L195 72 L195 118 Q195 158 145 182 Q95 158 95 118 L95 72 Z"
+        fill="#2b1900" stroke="#FF7A00" stroke-width="2.5">
+    <animate attributeName="stroke-width" values="2;3.2;2" dur="2.4s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- ascending bar chart (data / analysis) -->
+  <rect x="112" y="132" width="14" height="26" rx="2" fill="#FF7A00" opacity="0.45"/>
+  <rect x="132" y="112" width="14" height="46" rx="2" fill="#FF7A00" opacity="0.65"/>
+  <rect x="152" y="88"  width="14" height="70" rx="2" fill="#FF7A00" opacity="0.85">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- lightning bolt (power) - flickers like an electric charge -->
+  <path d="M160 55 L122 120 L144 120 L130 178 L174 108 L150 108 Z"
+        fill="url(#boltGrad)" stroke="#7a3900" stroke-width="1.4" stroke-linejoin="round">
+    <animate attributeName="opacity" values="0.65;1;0.7;1;0.65" dur="1.6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- name -->
+  <text x="235" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#f7f1ea">
+    Omar Salem
+  </text>
+
+  <!-- title -->
+  <text x="235" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#FF8C00">
+    Data Engineer &amp; Analyst
+  </text>
+
+  <!-- underline that continuously draws itself in -->
+  <line x1="235" y1="163" x2="610" y2="163" stroke="#FF8C00" stroke-width="2.5"
+        stroke-dasharray="375" stroke-dashoffset="375">
+    <animate attributeName="stroke-dashoffset" values="375;0;0;375" keyTimes="0;0.4;0.8;1" dur="3.2s" repeatCount="indefinite"/>
+  </line>
+</svg>
