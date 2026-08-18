@@ -6,6 +6,10 @@
 
 <p align="center">
   <img src="Omar.jpeg" alt="Omar Salem" width="150" height="150" style="border-radius: 50%; border: 3px solid #00C9FF; object-fit: cover;"/>
+
+
+  <img width="1800" height="460" alt="DataEngineerBanner" src="https://github.com/user-attachments/assets/e8fed71f-45a1-46fa-8981-f343772949b9" />
+
 </p>
 
 <h1 align="center">Omar Salem 👋</h1>
