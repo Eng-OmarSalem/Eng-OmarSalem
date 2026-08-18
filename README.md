@@ -1,13 +1,4 @@
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-OmarSalem&show_icons=true&theme=radical)](https://github.com/Eng-OmarSalem)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Eng-OmarSalem&color=green)](https://github.com/Eng-OmarSalem)
-
-</div>
-
-
 <p align="center">
   <img src="Omar.jpeg" alt="Omar Salem" width="150" height="150" style="border-radius: 50%; border: 3px solid #00C9FF; object-fit: cover;"/>
 </p>
