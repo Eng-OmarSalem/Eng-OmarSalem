@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31198243/README.md)
 
 <p align="center">
   <img src="Omar.jpeg" alt="Omar Salem" width="150" height="150" style="border-radius: 50%; border: 3px solid #00C9FF; object-fit: cover;"/>
@@ -6,8 +7,12 @@
 <h1 align="center">Omar Salem 👋</h1>
 
 <p align="center">
+  <img src="DataEngineerBanner.svg" alt="Omar Salem - Data Engineer & Analyst" width="700"/>
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%93%8A;BI+Developer+%F0%9F%92%A1;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%93%8A;Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;BI+Developer+%F0%9F%92%A1;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Decisions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,6 +31,7 @@
 - 🎓 Bachelor's in **Business Information Systems** @ Delta University *(Grade: Excellent)*
 - 🔬 Currently: **AI & Data Science Researcher** @ *The University of Tokyo, Japan*
 - 🏆 Certified as **Top Student** in DEPI Data Analyst Program
+- 🗂️ Skilled in **Database Schema Design & Data Modeling** (ERD, Normalization, Star/Snowflake Schemas)
 - 🌍 Based in **El-Mahalla El-Kubra, Egypt**
 - 💬 Languages: **Arabic** (Native) · **English** (Conversational)
 
@@ -54,11 +60,17 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Data Engineering
+### 🏗️ Data Engineering & Cloud
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Big%20Data-FF6B35?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Pipelines-00897B?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling%20%26%20Schema%20Design-6C63FF?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ---
@@ -101,7 +113,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarSalem-Enginner&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=OmarSalem-Enginner&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
