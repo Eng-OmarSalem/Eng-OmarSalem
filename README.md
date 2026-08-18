@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31198243/README.md)
+[README_1.md](https://github.com/user-attachments/files/31198525/README_1.md)
 
 <p align="center">
   <img src="Omar.jpeg" alt="Omar Salem" width="150" height="150" style="border-radius: 50%; border: 3px solid #00C9FF; object-fit: cover;"/>
@@ -7,7 +7,7 @@
 <h1 align="center">Omar Salem 👋</h1>
 
 <p align="center">
-  <img src="DataEngineerBanner.svg" alt="Omar Salem - Data Engineer & Analyst" width="700"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIzMCIgdmlld0JveD0iMCAwIDkwMCAyMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBiMWMyNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMxMjMyNDQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imljb25HbG93IiBjeD0iNTAlIiBjeT0iNDUlIiByPSI2NSUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDBDOUZGIiBzdG9wLW9wYWNpdHk9IjAuMzUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDBDOUZGIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgPC9kZWZzPgoKICA8IS0tIGNhcmQgYmFja2dyb3VuZCAtLT4KICA8cmVjdCB4PSIxLjUiIHk9IjEuNSIgd2lkdGg9Ijg5NyIgaGVpZ2h0PSIyMjciIHJ4PSIxNiIgZmlsbD0idXJsKCNiZykiIHN0cm9rZT0iIzFjM2Q0ZiIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KCiAgPCEtLSBpY29uIGdsb3cgLS0+CiAgPGNpcmNsZSBjeD0iMTQ1IiBjeT0iMTE1IiByPSI3OCIgZmlsbD0idXJsKCNpY29uR2xvdykiLz4KCiAgPCEtLSBiYWRnZSAvIHNoaWVsZCBzaGFwZSAtLT4KICA8cGF0aCBkPSJNMTQ1IDUwIEwxOTUgNzIgTDE5NSAxMTggUTE5NSAxNTggMTQ1IDE4MiBROTUgMTU4IDk1IDExOCBMOTUgNzIgWiIKICAgICAgICBmaWxsPSIjMGUzMjQzIiBzdHJva2U9IiMwMEM5RkYiIHN0cm9rZS13aWR0aD0iMi41Ii8+CgogIDwhLS0gc2NoZW1hIC8gRVItZGlhZ3JhbSBpY29uOiB0aHJlZSBjb25uZWN0ZWQgbm9kZXMgLS0+CiAgPGxpbmUgeDE9IjEyMyIgeTE9IjEwMyIgeDI9IjE2NyIgeTI9IjEwMyIgc3Ryb2tlPSIjMDBDOUZGIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8bGluZSB4MT0iMTIzIiB5MT0iMTAzIiB4Mj0iMTQ1IiB5Mj0iMTQwIiBzdHJva2U9IiMwMEM5RkYiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxsaW5lIHgxPSIxNjciIHkxPSIxMDMiIHgyPSIxNDUiIHkyPSIxNDAiIHN0cm9rZT0iIzAwQzlGRiIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPGNpcmNsZSBjeD0iMTIzIiBjeT0iMTAzIiByPSI5IiBmaWxsPSIjMDBDOUZGIi8+CiAgPGNpcmNsZSBjeD0iMTY3IiBjeT0iMTAzIiByPSI5IiBmaWxsPSIjMDBDOUZGIi8+CiAgPGNpcmNsZSBjeD0iMTQ1IiBjeT0iMTQwIiByPSI5IiBmaWxsPSIjMDBDOUZGIi8+CiAgPGNpcmNsZSBjeD0iMTIzIiBjeT0iMTAzIiByPSIzLjUiIGZpbGw9IiMwZTMyNDMiLz4KICA8Y2lyY2xlIGN4PSIxNjciIGN5PSIxMDMiIHI9IjMuNSIgZmlsbD0iIzBlMzI0MyIvPgogIDxjaXJjbGUgY3g9IjE0NSIgY3k9IjE0MCIgcj0iMy41IiBmaWxsPSIjMGUzMjQzIi8+CgogIDwhLS0gbmFtZSAtLT4KICA8dGV4dCB4PSIyMzUiIHk9IjEwOCIgZm9udC1mYW1pbHk9IlNlZ29lIFVJLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2Y1ZjlmYyI+CiAgICBPbWFyIFNhbGVtCiAgPC90ZXh0PgoKICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjIzNSIgeT0iMTQ4IiBmb250LWZhbWlseT0iU2Vnb2UgVUksIEFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjI0IiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjMDBDOUZGIj4KICAgIERhdGEgRW5naW5lZXIgJmFtcDsgQW5hbHlzdAogIDwvdGV4dD4KCiAgPCEtLSB1bmRlcmxpbmUgLS0+CiAgPGxpbmUgeDE9IjIzNSIgeTE9IjE2MyIgeDI9IjYxMCIgeTI9IjE2MyIgc3Ryb2tlPSIjMDBDOUZGIiBzdHJva2Utd2lkdGg9IjIuNSIvPgo8L3N2Zz4K" alt="Omar Salem - Data Engineer & Analyst" width="700"/>
 </p>
 
 <p align="center">
@@ -102,19 +102,6 @@
 | 📈 Google Advanced Data Analytics *(8 Courses)* | Coursera |
 | 📉 Microsoft Power BI Data Analyst *(8 Courses)* | Coursera |
 | 🤖 AI & Machine Learning | Sprints |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarSalem-Enginner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarSalem-Enginner&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=OmarSalem-Enginner&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
