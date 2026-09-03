@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31805853/README.md)
 
 <p align="center">
   <img src="DataEngineerBannerAnimated.svg" alt="Omar Salem - Data Engineer & Analyst" width="700"/>
@@ -25,13 +26,14 @@
 
 ## 🧠 About Me
 
-> *"I bridge the gap between raw data and strategic goals — transforming complex numbers into clear, impactful narratives."*
+> *"I bridge the gap between raw data and strategic goals — transforming complex numbers into clear, impactful narratives. I thrive on solving data challenges and providing the insights needed to drive smart, measurable growth."*
 
-- 🎓 Bachelor's in **Business Information Systems** @ Delta University *(Grade: Excellent)*
-- 🔬 Currently: **AI & Data Science Researcher** @ *The University of Tokyo, Japan*
-- 🏆 Certified as **Top Student** in DEPI Data Analyst Program
+- 🎓 Bachelor's in **Business Information Systems** @ Delta University for Science and Technology, Mansoura *(Grade: Excellent)*
+- 💼 Currently: **Data Engineer Intern (DEPI)** @ Skills Dynamix, Alexandria, Egypt
+- 🔬 Former **AI & Data Science Researcher** @ Matsuo & Iwasawa Laboratory, The University of Tokyo, Japan
+- 🏆 Awarded the **Outstanding Student Certificate** in the DEPI Data Analyst Program *(Top Student)*
 - 🗂️ Skilled in **Database Schema Design & Data Modeling** (ERD, Normalization, Star/Snowflake Schemas)
-- 🌍 Based in **El-Mahalla El-Kubra, Egypt**
+- 🌍 Based in **Gharbia, El-Mahalla El-Kubra, Egypt**
 - 💬 Languages: **Arabic** (Native) · **English** (Conversational)
 
 ---
@@ -76,18 +78,20 @@
 
 ## 🚀 Featured Projects
 
-### ⚡ Solar & Wind Energy Dashboard — Power BI
-> Built an interactive Power BI dashboard analyzing renewable energy trends across Europe. Applied advanced **DAX** measures and data cleaning pipelines to extract insights unavailable in the raw dataset.
+### 📦 Samsung Supply Chain Logistics Dashboard — Power BI
+> Built an end-to-end Power BI supply chain dashboard using a **star-schema model (5 facts, 5 dims)** to track revenue, defect rates, lead times, and perfect order rates across global facilities.
 
-### 🧬 Alzheimer's Disease Prediction Model
-> Developed a predictive ML model for Alzheimer's detection, paired with a **Power BI dashboard** for visual diagnosis support and insight communication.
+### 👥 HR Dashboard Using Tableau
+> Developed a Tableau HR dashboard analyzing **9K employee records**, engineering **124 calculated fields** for advanced demographic tracking, attrition metrics, and dynamic top N highlighting.
 
-### 🌬️ Wind Energy SQL Analysis
-> Conducted deep SQL analysis on wind energy datasets using **CTEs, Window Functions, and Conditional Aggregation** to deliver high-performance, accurate insights.
+### 🧬 Alzheimer's Disease Analysis Dashboard & Prediction Model
+> End-to-end Alzheimer's Disease analysis: an interactive **Power BI dashboard** on 2,149 patient records, paired with a stacked **ML ensemble (XGBoost, LightGBM, CatBoost, HistGB)** tuned via Optuna, achieving **95% ROC-AUC**, featuring SHAP explainability behind every diagnosis.
 
-### 🌱 Green Transition Forecasting (Europe)
-> - **Wind Power Forecasting**: Engineered time-series features with robust cross-validation.
-> - **Solar Energy Prediction**: Built optimized **XGBoost & Random Forest** models with hyperparameter tuning to reduce overfitting.
+### 💳 Sales Performance & Customer Behavior Analysis — Advanced SQL
+> An end-to-end SQL project utilizing **CTEs and Window Functions** to segment customers, evaluate YoY product performance, and build automated reporting views for BI tools.
+
+### 🌬️ Wind Energy Using Advanced SQL
+> Engineered complex SQL queries utilizing **CTEs and window functions** to streamline data analysis and deliver precise, data-driven insights.
 
 ---
 
@@ -97,10 +101,10 @@
 |-------------|--------|
 | 🥇 Data Analyst Specialist *(Top Student)* | DEPI, Egypt |
 | 🔷 SQL (Advanced) | HackerRank |
-| 📊 Google Data Analytics *(9 Courses)* | Coursera |
-| 📈 Google Advanced Data Analytics *(8 Courses)* | Coursera |
-| 📉 Microsoft Power BI Data Analyst *(8 Courses)* | Coursera |
-| 🤖 AI & Machine Learning | Sprints |
+| 🅰️ IBM Data Analyst Professional Certificate | IBM |
+| 📉 Microsoft Power BI Data Analyst | Microsoft |
+| 📊 Google Data Analytics Professional Certificate | Google |
+| 📈 Google Advanced Data Analytics Professional Certificate | Google |
 
 ---
 
