@@ -1,11 +1,11 @@
-[README.md](https://github.com/user-attachments/files/31805853/README.md)
+[README.md](https://github.com/user-attachments/files/32151666/README.md)
 
 <p align="center">
-  <img src="DataEngineerBannerAnimated.svg" alt="Omar Salem - Data Engineer & Analyst" width="700"/>
+  <img src="DataEngineerBannerAnimated.svg" alt="Omar Salem - Data Engineer & Analyst" width="950"/>
 </p>
 
 <p align="center">
-  <img src="Omar.jpeg" alt="Omar Salem" width="150" height="150" style="border-radius: 50%; border: 3px solid #00C9FF; object-fit: cover;"/>
+  <img src="OmarAvatar.svg" alt="Omar Salem" width="170" height="170"/>
 </p>
 
 <h1 align="center">Omar Salem 👋</h1>
